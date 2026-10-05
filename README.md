@@ -39,12 +39,11 @@ Un par de reglas que se notan en el código:
 
 ## Sobre por qué un teléfono
 
-El Xiaomi que uso de servidor ya no arrancaba como teléfono: la pantalla estaba rota y ya
-no tenía sentido gastar en repararlo. Con TWRP instalado sigue dando servicio, y consume
-una fracción de lo que consumiría un servidor de verdad. La lección no es que los
-teléfonos sean mejores servidores, es que **el hardware que ya tienes, y no usas, puede
-convertirse en infraestructura** si lo cuidas con el mismo criterio que si lo hubieras
-comprado para eso.
+El servidor corre en un Xiaomi Poco X3 Pro al que ya le quedaba poca vida como
+teléfono. Con TWRP instalado da servicio como servidor, y consume una fracción de lo que
+consumiría una máquina dedicada. La lección no es que los teléfonos sean mejores
+servidores, es que **el hardware que ya tienes, y no usas, puede convertirse en
+infraestructura** si lo cuidas con el mismo criterio que si lo hubieras comprado para eso.
 
 ## Abierto a
 
